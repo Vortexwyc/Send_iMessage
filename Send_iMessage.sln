@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Send_iMessage", "Send_iMessage\Send_iMessage.csproj", "{4FFB9E73-1530-47C2-BE27-06C5B163229C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FFB9E73-1530-47C2-BE27-06C5B163229C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FFB9E73-1530-47C2-BE27-06C5B163229C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FFB9E73-1530-47C2-BE27-06C5B163229C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FFB9E73-1530-47C2-BE27-06C5B163229C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4027FF0F-A764-443E-90EA-8E29E45B4FD1}
+	EndGlobalSection
+EndGlobal
